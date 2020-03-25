@@ -1,0 +1,11 @@
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\bin\Debug\PostComment.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\bin\Debug\PostComment.pdb
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\bin\Debug\PostComment.dll.config
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\ObjectWCF\obj\Debug\ObjectWCF.pdb

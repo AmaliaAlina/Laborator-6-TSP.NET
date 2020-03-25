@@ -1,0 +1,14 @@
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\HostWCF.exe.config
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\HostWCF.exe
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\HostWCF.pdb
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\PostComment.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\EntityFramework.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\PostComment.pdb
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\PostComment.dll.config
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\bin\Debug\EntityFramework.xml
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\obj\Debug\HostWCF.exe
+C:\Users\Amalia\Desktop\TSP.NET-labs\HostWCF\obj\Debug\HostWCF.pdb

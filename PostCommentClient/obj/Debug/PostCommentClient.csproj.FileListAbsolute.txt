@@ -1,0 +1,9 @@
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\obj\Debug\PostCommentClient.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\obj\Debug\PostCommentClient.csproj.GenerateResource.cache
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\bin\Debug\PostCommentClient.exe.config
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\bin\Debug\PostCommentClient.exe
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\bin\Debug\PostCommentClient.pdb
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\obj\Debug\ClientPostComment.Form1.resources
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\obj\Debug\ClientPostComment.Properties.Resources.resources
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\obj\Debug\PostCommentClient.exe
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostCommentClient\obj\Debug\PostCommentClient.pdb

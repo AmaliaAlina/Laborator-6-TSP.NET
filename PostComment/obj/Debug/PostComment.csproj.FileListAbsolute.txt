@@ -1,0 +1,11 @@
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\bin\Debug\PostComment.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\bin\Debug\PostComment.pdb
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\obj\Debug\PostComment.dll
+C:\Users\Amalia\Desktop\TSP.NET-labs\PostComment\obj\Debug\PostComment.pdb
